@@ -1,8 +1,10 @@
-## Olá, eu sou o Leandro Ramos!
+## Olá pessoas, sou Leandro Ramos! - <💻❤️/>
 
-- Descobrindo meu amor por códigos ❤️ 💻 <br>
-- Tenho interesse em trabalhar com data science e big data 🗃️🖥️📊 <br>
-- Atualmente estou aprendendo Python 🐍
+Tenho 28 anos, moro em Santa Isabel/SP há 2 anos.
+
+Trabalhei como designer gráfico a maior parte do tempo e atualmente estou desempregado e em transição de carreira para a área tech, me dedicando aos estudos em tempo integral. Estou terminando meu curso de Python e Django, enquanto estudo em paralelo HTML, CSS e um pouco de Javascript. Após consolidar meus conhecimentos em Python, vou me dedicar totalmente ao HTML e CSS que se tornaram minhas novas paixões. Rumo ao desenvolvimento Fullstack!
+
+Tenho planos de morar na capital São Paulo, e caso haja uma oportunidade de emprego, em que demande estar presente, seria uma motivação e o combustível necessário que vai acelerar meus planos, por isso tenho a garra e vontade de crescer que me fazem desempenhar o meu melhor em um ambiente de trabalho.
 
 <div align="center">
   <a href="https://github.com/LP-Ramos">
