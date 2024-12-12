@@ -1,6 +1,6 @@
 ## Olá pessoas, sou Leandro Ramos! - <💻❤️/>
 
-Tenho 28 anos, moro em Santa Isabel/SP há 2 anos.
+Tenho 31 anos, moro em Santa Isabel/SP há 2 anos.
 
 Trabalhei como designer gráfico a maior parte do tempo e atualmente estou desempregado e em transição de carreira para a área tech, me dedicando aos estudos em tempo integral. Estou terminando meu curso de Python e Django, enquanto estudo em paralelo HTML, CSS e um pouco de Javascript. Após consolidar meus conhecimentos em Python, vou me dedicar totalmente ao HTML e CSS que se tornaram minhas novas paixões. Rumo ao desenvolvimento Fullstack!
 
